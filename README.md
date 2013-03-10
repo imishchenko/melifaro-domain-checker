@@ -26,7 +26,7 @@ public function myAction()
 Adding new domain zones
 -----------------------
 
-Basically you can add your domain zone by creating new class under \Melifaro\DomainChecker\DomainZone\ namespace.
+Basically you can add your domain zone by creating new class under ```\Melifaro\DomainChecker\DomainZone\``` namespace.
 It should extend DomainZone base class and look like follows
 ```php
 namespace Melifaro\DomainChecker\DomainZone;
