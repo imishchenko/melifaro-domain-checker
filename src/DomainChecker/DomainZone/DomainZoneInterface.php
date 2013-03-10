@@ -1,5 +1,5 @@
 <?php
-namespace Melifaro\DomainChecker\DomainZone;
+namespace DomainChecker\DomainZone;
 
 /**
  * Interface to all domain zones

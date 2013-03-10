@@ -1,5 +1,5 @@
 <?php
-namespace Melifaro\DomainChecker\DomainZone;
+namespace DomainChecker\DomainZone;
 
 /**
  * Unsupported Domain Zone Exception

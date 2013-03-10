@@ -1,7 +1,7 @@
 <?php
-namespace Melifaro\DomainChecker;
+namespace DomainChecker;
 
-use Melifaro\DomainChecker\DomainZone\DomainZone;
+use DomainChecker\DomainZone\DomainZone;
 
 /**
  * 

@@ -1,5 +1,5 @@
 <?php
-namespace Melifaro\DomainChecker\DomainZone;
+namespace DomainChecker\DomainZone;
 /**
  * .net domain zone definition
  * 

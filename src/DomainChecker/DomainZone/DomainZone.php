@@ -1,5 +1,5 @@
 <?php
-namespace Melifaro\DomainChecker\DomainZone;
+namespace DomainChecker\DomainZone;
 
 /**
  * Abstract class containing only factory

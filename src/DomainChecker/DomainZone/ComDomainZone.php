@@ -1,5 +1,5 @@
 <?php
-namespace Melifaro\DomainChecker\DomainZone;
+namespace DomainChecker\DomainZone;
 /**
  * .com domain zone definition
  * 
