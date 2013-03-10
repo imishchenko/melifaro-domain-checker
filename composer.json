@@ -1,8 +1,8 @@
 {
     "name": "melifaro/domain-checker",
     "type": "library",
-    "description": "Provides checking is domain name free",
-    "keywords": ["donain","domain name", "check domain name"],
+    "description": "Provides checking domain name availability",
+    "keywords": ["domain","domain name", "check domain name"],
     "homepage": "https://github.com/imishchenko/melifaro-domain-checker",
     "license": "MIT",
     "authors": [
